@@ -12,7 +12,7 @@
   "homepage": "https://github.com/juliangruber/capture-phantomjs",
   "main": "index.js",
   "dependencies": {
-    "phantomjs": "^2.1.7",
+    "phantomjs": "git+https://github.com/scopear/phantomjs",
     "safe-buffer": "^5.1.2",
     "shell-escape": "^0.2.0"
   },
