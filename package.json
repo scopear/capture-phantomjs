@@ -13,7 +13,7 @@
   "main": "index.js",
   "dependencies": {
     "phantomjs": "git+https://github.com/scopear/phantomjs",
-    "safe-buffer": "^5.1.2",
+    "safe-buffer": "^5.2.1",
     "shell-escape": "^0.2.0"
   },
   "devDependencies": {
